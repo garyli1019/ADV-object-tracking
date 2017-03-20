@@ -1,4 +1,4 @@
-# Senior-Design
+# ADV object tracking
 Modify data: March 9/2017
 Acknowledge:
 Kyle Hounslow: A youtuber who provide the tutorial to do the color based object tracking task with OpenCV. 
